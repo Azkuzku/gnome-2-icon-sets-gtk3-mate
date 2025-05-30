@@ -1,5 +1,5 @@
 <h1>Old Gnome 2 icon sets (smokeyblue,gnome) by heliospah</h1>
-contact: aksutaskila@gmail.com
+contact: aksutaskila@gmail.com<br>
 pictured below is the SmokeyBlue theme
 <img width="853" src="https://github.com/Azkuzku/gnome-2-icon-sets-gtk3-mate/blob/main/deskpreview.png">
 
