@@ -29,14 +29,8 @@ and the original authors of the Gnome 2 icon set and gperfection2 for that matte
 Jakub Steiner
 https://jimmac.eu/
 
-What I did here was merely fix some issues like the "show desktop" button
-missing a LOWDPI variant, and the SmokeyBlue theme using the incorrect icon
-sizes for stuff like the home folder. There may be oversights still left
-somewhere, but I'd consider this more than usable for daily computing.
-
-I also added some new relative links for modern programs (discord, firefox-esr,
-etc), added a period-correct Steam logo and modified Audacity's old logo for it
-to fit in better with the rest of the package.
-Nobody likes it when icons stick out from a theme.
+The idea of this project is to fix and add onto the already existing porting
+projects of the old Gnome 2 icon themes. I'm mainly focused on adding icons for
+new programs and fixing incompatibilities and graphical issues.
 
 If this readme is missing something crucial, please contact me
