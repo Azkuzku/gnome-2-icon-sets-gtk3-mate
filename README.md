@@ -1,6 +1,6 @@
-Old Gnome 2 icon sets (smokeyblue,gnome) by heliospah
+<h1>Old Gnome 2 icon sets (smokeyblue,gnome) by heliospah</h1>
 contact: aksutaskila@gmail.com
-<img src="https://github.com/Azkuzku/gnome-2-icon-sets-gtk3-mate/blob/main/deskpreview.png">
+<img width="853" src="https://github.com/Azkuzku/gnome-2-icon-sets-gtk3-mate/blob/main/deskpreview.png">
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
