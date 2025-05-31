@@ -25,7 +25,7 @@ SmokeyRed
 Crux
 <img width="1024" src="https://github.com/Azkuzku/gnome-2-icon-sets-gtk3-mate/blob/main/deskpreview-crux.png">
 
-<h1>INSTALLING</h1>
+<h1>INSTALLATION</h1>
 Just run the install.sh script, it should automatically copy them over to your ~/.icons/
 folder. Alternatively you can just copy the files into /usr/share/icons/ for systemwide
 access. Please note that SmokeyRed and Crux are dependent on the SmokeyBlue theme, and
