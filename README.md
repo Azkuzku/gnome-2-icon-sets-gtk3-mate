@@ -1,9 +1,10 @@
 <h1>Old Gnome 2 icon sets (SmokeyBlue, SmokeyRed, Gnome)</h1><h2>by heliospah</h2>
 contact: aksutaskila@gmail.com<br>
 comes in three flavours
-<img width="300" src="https://github.com/Azkuzku/gnome-2-icon-sets-gtk3-mate/blob/main/deskpreview-gnome2.png">
+<img width="300" src="https://github.com/Azkuzku/gnome-2-icon-sets-gtk3-mate/blob/main/deskpreview.png">
 <img width="300" src="https://github.com/Azkuzku/gnome-2-icon-sets-gtk3-mate/blob/main/deskpreview-smokeyblue.png">
 <img width="300" src="https://github.com/Azkuzku/gnome-2-icon-sets-gtk3-mate/blob/main/deskpreview-smokeyred.png">
+<img width="300" src="https://github.com/Azkuzku/gnome-2-icon-sets-gtk3-mate/blob/main/deskpreview-crux.png">
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by

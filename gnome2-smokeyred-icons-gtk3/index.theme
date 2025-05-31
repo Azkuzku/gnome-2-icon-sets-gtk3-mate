@@ -1,5 +1,5 @@
 [Icon Theme]
-Name=Gnome 2 SmokeyRed icons for GTK3
+Name=(GNOME 2) SmokeyRed
 Name[az]=Tüstülü-Qırmızı
 Name[be]=Чырвоная дымка
 Name[bn]=ধোয়াটে লাল
@@ -11,7 +11,7 @@ Name[de]=Smokey-Red
 Name[el]=Smokey-Red
 Name[es]=Rojo humeante
 Name[et]=Suitsune punane
-Name[fi]=Savunpunainen
+Name[fi]=(Gnome 2) Savunpunainen
 Name[fr]=Smokey-Red
 Name[ga]=Deatach-Rua
 Name[he]=עשן אדום
@@ -49,12 +49,17 @@ Name[wa]=Rodje foumire
 Name[zh_CN]=烟红
 Name[zh_TW]=紅色輕煙
 Comment=Gnome Icon theme pre-2.16. Works best with MATE!
-Inherits=gnome2-icons-gtk3
+Inherits=gnome2-smokeyblue-icons-gtk3
 Directories=48x48/filesystems,48x48/emblems,48x48/places
 
 [72x72/filesystems]
 Size=72
 Context=FileSystems
+Type=Scaled
+
+[48x48/status]
+Size=48
+Context=Status
 Type=Scaled
 
 [48x48/places]
