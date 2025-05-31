@@ -28,7 +28,7 @@ Crux
 <h1>INSTALLATION</h1>
 Just run the install.sh script, it should automatically copy them over to your ~/.icons/
 folder. Alternatively you can just copy the files into /usr/share/icons/ for systemwide
-access. Please note that SmokeyRed and Crux are dependent on the SmokeyBlue theme, and
+access. Please note that SmokeyRed and Crux are dependant on the SmokeyBlue theme, and
 won't function properly without it.
 <br>
 <br>
