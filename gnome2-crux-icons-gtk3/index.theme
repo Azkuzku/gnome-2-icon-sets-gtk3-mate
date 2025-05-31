@@ -53,10 +53,15 @@ Comment=Gnome Icon theme pre-2.16. Works best with MATE!
 Inherits=gnome2-smokeyblue-icons-gtk3
 Directories=48x48/filesystems,48x48/emblems,48x48/places
 
+[192x192/status]
+Size=192
+Context=Status
+Type=Scaled
+
 [192x192/filesystems]
 Size=192
 Context=FileSystems
-Type=Scalable
+Type=Scaled
 
 [96x96/filesystems]
 Size=96
@@ -71,17 +76,17 @@ Type=Scalable
 [48x48/filesystems]
 Size=48
 Context=FileSystems
-Type=Scalable
+Type=Scaled
 
 [48x48/status]
 Size=48
 Context=Status
-Type=Scalable
+Type=Scaled
 
 [192x192/places]
 Size=192
 Context=Places
-Type=Scalable
+Type=Scaled
 
 [96x96/places]
 Size=96
