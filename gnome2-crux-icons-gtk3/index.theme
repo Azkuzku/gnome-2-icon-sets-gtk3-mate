@@ -51,21 +51,31 @@ Name[zh_CN]=十字架
 Name[zh_TW]=Crux
 Comment=Gnome Icon theme pre-2.16. Works best with MATE!
 Inherits=gnome2-smokeyblue-icons-gtk3
-Directories=48x48/filesystems,48x48/emblems,48x48/places
+Directories=20x20/filesystems,48x48/filesystems,48x48/places,24x24/filesystems,72x72/filesystems,72x72/places,192x192/filesystems,36x36/filesystems,12x12/filesystems,96x96/filesystems,96x96/places,192x912/status
+
+[192x192/places]
+Size=192
+Context=Places
+Type=Scalable
 
 [192x192/status]
 Size=192
 Context=Status
-Type=Scaled
+Type=Scalable
 
 [192x192/filesystems]
 Size=192
 Context=FileSystems
-Type=Scaled
+Type=Scalable
 
 [96x96/filesystems]
 Size=96
 Context=FileSystems
+Type=Scalable
+
+[96x96/places]
+Size=96
+Context=Places
 Type=Scalable
 
 [72x72/filesystems]
@@ -73,33 +83,23 @@ Size=72
 Context=FileSystems
 Type=Scalable
 
-[48x48/filesystems]
-Size=48
-Context=FileSystems
-Type=Scaled
-
-[48x48/status]
-Size=48
-Context=Status
-Type=Scaled
-
-[192x192/places]
-Size=192
-Context=Places
-Type=Scaled
-
-[96x96/places]
-Size=96
-Context=Places
-Type=Scalable
-
 [72x72/places]
 Size=72
 Context=Places
 Type=Scalable
 
-[48x48/places]
+[48x48/filesystems]
+Size=52
+Context=FileSystems
+Type=Fixed
+
+[48x48/status]
 Size=48
-Context=Places
+Context=Status
 Type=Scalable
+
+[48x48/places]
+Size=52
+Context=Places
+Type=Fixed
 
