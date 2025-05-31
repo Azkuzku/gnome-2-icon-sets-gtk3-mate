@@ -16,13 +16,8 @@ pictured below is the SmokeyBlue theme
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-Most of this was built off of the work of
-
-eqlovelace
+Most of this was built off of the work of eqlovelace
 https://www.deviantart.com/eqlovelace/art/Old-GNOME2-Icon-Theme-192943815
-
-Slackalaxy
-https://slackalaxy.com/2023/03/31/gnome-legacy-icon-theme/
 
 and the original authors of the Gnome 2 icon set and gperfection2 for that matter.
 
