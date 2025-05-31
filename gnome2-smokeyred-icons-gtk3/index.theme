@@ -49,7 +49,7 @@ Name[wa]=Rodje foumire
 Name[zh_CN]=烟红
 Name[zh_TW]=紅色輕煙
 Comment=Gnome Icon theme pre-2.16. Works best with MATE!
-Inherits=gnome2-smokeyblue-icons-gtk3
+Inherits=gnome2-icons-gtk3
 Directories=48x48/filesystems,48x48/emblems,48x48/places
 
 [72x72/filesystems]
@@ -65,10 +65,5 @@ Type=Scaled
 [48x48/filesystems]
 Size=48
 Context=FileSystems
-Type=Scaled
-
-[48x48/emblems]
-Size=48
-Context=Emblems
 Type=Scaled
 
