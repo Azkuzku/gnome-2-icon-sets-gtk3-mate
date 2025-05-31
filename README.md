@@ -1,4 +1,4 @@
-<h1>Old Gnome 2 icon sets (smokeyblue,gnome) by heliospah</h1>
+<h1>Old Gnome 2 icon sets (smokeyblue,smokeyred,gnome) by heliospah</h1>
 contact: aksutaskila@gmail.com<br>
 comes in three flavours
 <img width="300" src="https://github.com/Azkuzku/gnome-2-icon-sets-gtk3-mate/blob/main/deskpreview-gnome2.png">
