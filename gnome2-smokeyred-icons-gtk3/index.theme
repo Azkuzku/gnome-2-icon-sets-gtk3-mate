@@ -1,0 +1,74 @@
+[Icon Theme]
+Name=Gnome 2 SmokeyRed icons for GTK3
+Name[az]=Tüstülü-Qırmızı
+Name[be]=Чырвоная дымка
+Name[bn]=ধোয়াটে লাল
+Name[ca]=Roig fumejant
+Name[cs]=Kouřová červená
+Name[cy]=Mwg-Coch
+Name[da]=Røgrød
+Name[de]=Smokey-Red
+Name[el]=Smokey-Red
+Name[es]=Rojo humeante
+Name[et]=Suitsune punane
+Name[fi]=Savunpunainen
+Name[fr]=Smokey-Red
+Name[ga]=Deatach-Rua
+Name[he]=עשן אדום
+Name[hi]=धुम्रवर्ण लाल
+Name[hu]=Füstös piros
+Name[id]=Smokey-Red
+Name[is]=Reykrautt
+Name[it]=Smokey rosso
+Name[ja]=スモーキー・レッド
+Name[ko]=붉으스름
+Name[li]=Roukerig roej
+Name[lt]=Miglotai raudona
+Name[lv]=Dūmakaini Sarkans
+Name[mk]=Smokey-Red
+Name[ml]=പുക അരുണിമ
+Name[mn]=Утаан-улаан
+Name[ms]=Smokey-Red
+Name[nl]=Rokerig-Rood
+Name[no]=Rødrøyk
+Name[pl]=Przydymiony czerwony
+Name[pt]=Vermelho-Fumo
+Name[pt_BR]=Smokey-Red
+Name[ro]=Roşu-fumuriu
+Name[ru]=Дымчато-красная
+Name[sk]=Červený dym
+Name[sl]=Dimno-rdeča
+Name[sq]=Smokey-i kuq
+Name[sr]=Прљаво црвена
+Name[sr@Latn]=Prljavo crvena
+Name[sv]=Rökig-röd
+Name[th]=Smokey-Red
+Name[tr]=Grimsi-Kırmızı
+Name[uk]=Туманно-червона
+Name[wa]=Rodje foumire
+Name[zh_CN]=烟红
+Name[zh_TW]=紅色輕煙
+Comment=Gnome Icon theme pre-2.16. Works best with MATE!
+Inherits=gnome2-smokeyblue-icons-gtk3
+Directories=48x48/filesystems,48x48/emblems,48x48/places
+
+[72x72/filesystems]
+Size=72
+Context=FileSystems
+Type=Scaled
+
+[48x48/places]
+Size=48
+Context=Places
+Type=Scaled
+
+[48x48/filesystems]
+Size=48
+Context=FileSystems
+Type=Scaled
+
+[48x48/emblems]
+Size=48
+Context=Emblems
+Type=Scaled
+
