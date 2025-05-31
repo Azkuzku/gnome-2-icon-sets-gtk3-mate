@@ -33,4 +33,4 @@ The idea of this project is to fix and add onto the already existing porting
 projects of the old Gnome 2 icon themes. I'm mainly focused on adding icons for
 new programs and fixing incompatibilities and graphical issues.
 
-If this readme is missing something crucial, please contact me
+I personally recommend using MenuLibre to fix any missing icons (gnome-disks > disks, etc)
