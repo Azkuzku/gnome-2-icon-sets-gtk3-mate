@@ -72,3 +72,12 @@ Size=48
 Context=FileSystems
 Type=Scaled
 
+[24x24/places]
+Size=24
+Context=Places
+Type=Fixed
+
+[24x24/filesystems]
+Size=24
+Context=FileSystems
+Type=Fixed
