@@ -51,7 +51,7 @@ Name[zh_CN]=十字架
 Name[zh_TW]=Crux
 Comment=Gnome Icon theme pre-2.16. Works best with MATE!
 Inherits=gnome2-smokeyblue-icons-gtk3
-Directories=20x20/filesystems,48x48/filesystems,48x48/places,24x24/filesystems,72x72/filesystems,72x72/places,192x192/filesystems,36x36/filesystems,12x12/filesystems,96x96/filesystems,96x96/places,192x912/status
+Directories=24x24/places,48x48/filesystems,48x48/places,24x24/filesystems,72x72/filesystems,72x72/places,192x192/filesystems,36x36/filesystems,12x12/filesystems,96x96/filesystems,96x96/places,192x912/status
 
 [192x192/places]
 Size=192
@@ -89,7 +89,7 @@ Context=Places
 Type=Scalable
 
 [48x48/filesystems]
-Size=52
+Size=48
 Context=FileSystems
 Type=Fixed
 
@@ -99,7 +99,26 @@ Context=Status
 Type=Scalable
 
 [48x48/places]
-Size=52
+Size=48
 Context=Places
 Type=Fixed
 
+[24x24/places]
+Size=24
+Context=Places
+Type=Fixed
+
+[24x24/filesystems]
+Size=24
+Context=FileSystems
+Type=Fixed
+
+[12x12/places]
+Size=12
+Context=Places
+Type=Fixed
+
+[12x12/filesystems]
+Size=12
+Context=FileSystems
+Type=Fixed
