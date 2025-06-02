@@ -50,7 +50,17 @@ Name[zh_CN]=烟红
 Name[zh_TW]=紅色輕煙
 Comment=Gnome Icon theme pre-2.16. Works best with MATE!
 Inherits=gnome2-smokeyblue-icons-gtk3
-Directories=72x72/filesystems,72x72/places,48x48/filesystems,48x48/emblems,48x48/places,24x24/places,24x24/filesystems
+Directories=192x192/filesystems,72x72/filesystems,72x72/places,48x48/filesystems,48x48/emblems,48x48/places,24x24/places,24x24/filesystems
+
+[192x192/filesystems]
+Size=192
+Context=FileSystems
+Type=Scaled
+
+[192x192/places]
+Size=192
+Context=Places
+Type=Scaled
 
 [72x72/filesystems]
 Size=72
