@@ -2,7 +2,7 @@
 Name=(GNOME 2) SmokeyBlue
 Comment=Gnome Icon theme pre-2.16. Works best with MATE!
 Inherits=gnome2-icons-gtk3
-Directories=72x72/places,72x72/filesystems,72x72/apps,48x48/actions,48x48/apps,48x48/categories,48x48/devices,48x48/emblems,48x48/filesystems,48x48/mimetypes,48x48/places,48x48/status,48x48/stock/code,48x48/stock/document,48x48/stock/generic,48x48/stock/io,48x48/stock/net,36x36/apps,36x36/devices,36x36/emblems,36x36/filesystems,36x36/mimetypes,36x36/places,36x36/status,36x36/stock/document,36x36/stock/generic,32x32/apps,32x32/categories,32x32/filesystems,32x32/mimetypes,32x32/places,32x32/status,32x32/stock/code,32x32/stock/chart,32x32/stock/data,32x32/stock/document,32x32/stock/generic,32x32/stock/io,32x32/stock/media,32x32/stock/net,32x32/stock/object,24x24/actions,24x24/apps,24x24/categories,24x24/devices,24x24/emblems,24x24/filesystems,24x24/mimetypes,24x24/places,24x24/status,24x24/stock/chart,24x24/stock/code,24x24/stock/data,24x24/stock/document,24x24/stock/form,24x24/stock/generic,24x24/stock/image,24x24/stock/io,24x24/stock/media,24x24/stock/navigation,24x24/stock/net,24x24/stock/object,24x24/stock/table,24x24/stock/text,22x22/apps,22x22/status,16x16/actions,16x16/apps,16x16/categories,16x16/devices,16x16/filesystems,16x16/mimetypes,16x16/places,16x16/status,16x16/stock/chart,16x16/stock/code,16x16/stock/code,16x16/stock/data,16x16/stock/document,16x16/stock/emoticons,16x16/stock/form,16x16/stock/generic,16x16/stock/image,16x16/stock/io,16x16/stock/media,16x16/stock/navigation,16x16/stock/net,16x16/stock/object,16x16/stock/table,16x16/stock/text,12x12/apps,12x12/devices,12x12/emblems,12x12/filesystems,12x12/mimetypes,12x12/places,12x12/status,scalable/apps,scalable/devices,scalable/emblems,scalable/filesystems,scalable/mimetypes
+Directories=72x72/places,72x72/filesystems,72x72/apps,48x48/actions,48x48/apps,48x48/categories,48x48/devices,48x48/emblems,48x48/filesystems,48x48/mimetypes,48x48/places,48x48/status,48x48/stock/code,48x48/stock/document,48x48/stock/generic,48x48/stock/media,48x48/stock/io,48x48/stock/net,36x36/apps,36x36/devices,36x36/emblems,36x36/filesystems,36x36/mimetypes,36x36/places,36x36/status,36x36/stock/document,36x36/stock/generic,32x32/apps,32x32/categories,32x32/filesystems,32x32/mimetypes,32x32/places,32x32/status,32x32/stock/code,32x32/stock/chart,32x32/stock/data,32x32/stock/document,32x32/stock/generic,32x32/stock/io,32x32/stock/media,32x32/stock/net,32x32/stock/object,24x24/actions,24x24/apps,24x24/categories,24x24/devices,24x24/emblems,24x24/filesystems,24x24/mimetypes,24x24/places,24x24/status,24x24/stock/chart,24x24/stock/code,24x24/stock/data,24x24/stock/document,24x24/stock/form,24x24/stock/generic,24x24/stock/image,24x24/stock/io,24x24/stock/media,24x24/stock/navigation,24x24/stock/net,24x24/stock/object,24x24/stock/table,24x24/stock/text,22x22/apps,22x22/status,16x16/actions,16x16/apps,16x16/categories,16x16/devices,16x16/filesystems,16x16/mimetypes,16x16/places,16x16/status,16x16/stock/chart,16x16/stock/code,16x16/stock/code,16x16/stock/data,16x16/stock/document,16x16/stock/emoticons,16x16/stock/form,16x16/stock/generic,16x16/stock/image,16x16/stock/io,16x16/stock/media,16x16/stock/navigation,16x16/stock/net,16x16/stock/object,16x16/stock/table,16x16/stock/text,12x12/apps,12x12/devices,12x12/emblems,12x12/filesystems,12x12/mimetypes,12x12/places,12x12/status,scalable/apps,scalable/devices,scalable/emblems,scalable/filesystems,scalable/mimetypes
 
 [72x72/places]
 Size=72
@@ -87,6 +87,11 @@ Context=Stock
 Type=Fixed
 
 [48x48/stock/net]
+Size=48
+Context=Stock
+Type=Fixed
+
+[48x48/stock/media]
 Size=48
 Context=Stock
 Type=Fixed
